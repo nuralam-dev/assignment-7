@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "item_image": "https://i.ibb.co.com/hxpFykzc/Bid1-min.png",
+    "item_name": "Vintage Leica M3 Camera",
+    "current_bid": "$2,850",
+    "time_left": "2 Days left",
+    "bid_button_img": "https://i.ibb.co/688X998/bid-now-btn.png"
+  },
+  {
+    "id": 2,
+    "item_image": "https://i.ibb.co.com/Q7wQh81f/Bid2-min.png",
+    "item_name": "1965 Gibson SG Standard Electric Guitar",
+    "current_bid": "$2,850",
+    "time_left": "2 Days left",
+    "bid_button_img": "https://i.ibb.co/688X998/bid-now-btn.png"
+  },
+  {
+    "id": 3,
+    "item_image": "https://i.ibb.co.com/4ZM1dcXf/Bid3-min.png",
+    "item_name": "Original Apple Macintosh 128K (1984)",
+    "current_bid": "$2,850",
+    "time_left": "2 Days left",
+    "bid_button_img": "https://i.ibb.co/688X998/bid-now-btn.png"
+  },
+  {
+    "id": 4,
+    "item_image": "https://i.ibb.co.com/dw7hN4xR/Bid4-min.png",
+    "item_name": "Rolex Submariner 16610",
+    "current_bid": "$2,850",
+    "time_left": "2 Days left",
+    "bid_button_img": "https://i.ibb.co/688X998/bid-now-btn.png"
+  },
+  {
+    "id": 5,
+    "item_image": "https://i.ibb.co.com/8n8Vq3Tv/Bid5-min.png",
+    "item_name": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "current_bid": "$2,850",
+    "time_left": "2 Days left",
+    "bid_button_img": "https://i.ibb.co/688X998/bid-now-btn.png"
+  },
+  {
+    "id": 6,
+    "item_image": "https://i.ibb.co.com/v6K7RVY8/Bid6-min.png",
+    "item_name": "Mid-Century Modern Eames Lounge Chair",
+    "current_bid": "$2,850",
+    "time_left": "2 Days left",
+    "bid_button_img": "https://i.ibb.co/688X998/bid-now-btn.png"
+  },
+  {
+    "id": 7,
+    "item_image": "https://i.ibb.co.com/1thqK3K6/Bid7-min.png",
+    "item_name": "Banksy Original Screen Print",
+    "current_bid": "$2,850",
+    "time_left": "2 Days left",
+    "bid_button_img": "https://i.ibb.co/688X998/bid-now-btn.png"
+  }
+]
